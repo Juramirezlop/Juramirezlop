@@ -5,7 +5,7 @@ I’m a data engineer in training and a Systems Engineering student at the Natio
 ## 🛠️ Technologies I Use
 
 - **Languages**: Python, SQL, JavaScript  
-- **Databases**: PostgreSQL, MySQL  
+- **Databases**: PostgreSQL, MySQL, MongoDB
 - **Tools & Environments**: Git, Conda, Jupyter, VS Code  
 - **Version Control**: Git & GitHub  
 - **Current Interests**: Data engineering, machine learning, cloud data processing
