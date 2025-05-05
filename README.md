@@ -29,7 +29,7 @@ I’m a data engineer in training and a Systems Engineering student at the Natio
 ## 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=default" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juramirezlop&layout=compact&theme=default" alt="Top languages" />
 </p>
 
 ---
