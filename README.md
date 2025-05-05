@@ -23,7 +23,7 @@ I’m a data engineer in training and a Systems Engineering student at the Natio
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=default&hide_title=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Juramirezlop&show_icons=true&theme=default&hide_title=true" alt="GitHub stats" />
 </p>
 
 ---
