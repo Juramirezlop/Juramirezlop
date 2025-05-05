@@ -26,6 +26,12 @@ I’m a data engineer in training and a Systems Engineering student at the Natio
   <img src="https://github-readme-stats.vercel.app/api?username=Juramirezlop&show_icons=true&theme=default&hide_title=true" alt="GitHub stats" />
 </p>
 
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=default" alt="Top languages" />
+</p>
+
 ---
 
 Thanks for visiting my profile! 👋
